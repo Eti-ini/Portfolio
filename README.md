@@ -1,13 +1,13 @@
 # Eti-ini Umoh- Data Analyst Portfolio
 ## About
-Hi, I am Eti-ini Umoh, a Pharmacist from the University of Benin, Nigeria. I am a data analyst and enthusiast with a passion for uncovering insights and making data-driven decisions, especially in the healthcare sector. I have developed a unique blend of technical and soft skills necessary to drive insights from data. 
+Hi, I am Eti-ini Umoh, a Pharmacist from the University of Benin, Nigeria. I am a data analyst and enthusiast passionate about uncovering insights and making data-driven decisions, especially in the healthcare sector. I have developed a unique blend of technical and soft skills necessary to drive insights from data. 
 
-Throughout my learning journey, I have learnt to transform complex data into actionable insights and uncover  hidden patterns and trends. As an entry-level data analyst, I am ready to leverage my skills to solve problems with data.
+Throughout my journey, I have learnt to transform complex data into actionable insights and uncover  hidden patterns and trends. As an entry-level data analyst, I am ready to leverage my skills to solve problems with data.
 
 This repository showcases my skills in SQL, Excel, PowerBI and Python for Data Analysis and how I have used these skills to uncover useful insights and make decisions.
 
 ## Table of Contents
-- [About]
+- [About](https://github.com/Eti-ini/Portfolio/blob/main/README.md)
 - [Portfolio Projects](https://github.com/Eti-ini/Portfolio/tree/main)
   - Python
     - [Pens and Printers Sales Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Pens%20and%20Printers)
@@ -24,4 +24,44 @@ This repository showcases my skills in SQL, Excel, PowerBI and Python for Data A
   - EXCEL & POWER BI
    - [Pharmacy Sales Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Pharmacy%20Sales%20Analysis)
    - [Social Buzz Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Social%20Buzz%20Data%20Analysis)
+
+## Portfolio Projects
+Below are the projects I have carried out:
+## Pens and Printers Sales Data Analysis
+[Pens and Printers Sales Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Pens%20and%20Printers)
+
+**Goals**: To analyse the sales approach for marketing newly launched office stationeries in Pens and Printers company and decide the best methods the sales team should use.
+
+**Description**: The dataset contains sales records with columns of weeks,  sales_method, customer_id, nb_sold, revenue, years_as_customers, nb_site_visits and state, Data Analysis involved data cleaning, validation, exploratory data analysis, visualization and presentation.
+
+**Skills**: Data Cleaning, Data Visualization and Storytelling, Data Analysis
+Technology: Python, Pandas
+
+## Pharmacy Sales Data Analysis
+[Pharmacy Sales Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Pharmacy%20Sales%20Analysis)
+
+**Goal**:
+The pharmacy company would like to uncover insights concerning:
+- The products generating the most revenue and profit (Best-performing products)
+- Products which sold the most unit
+- Company's revenue and profit
+- Recommendations to improve sales
+
+**Description**: The Dataset contained sales data across 12 months of the year 2023. The dataset contains the date of sale, time of day of sale, Article, Class, Reference number, Amount of articles sold each day and the profit.
+
+**Skills**: Data Cleaning, Data Visualization and Data Analysis
+**Technology**: Excel and PowerBI
+
+## Social Buzz Data Analysis
+[Social Buzz Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Social%20Buzz%20Data%20Analysis)
+
+**Description**:
+Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
+Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
+**Skills**: Data Cleaning, Data Visualization and Data Analysis
+**Technology**: Excel and PowerBI
+
+
+
+
      
