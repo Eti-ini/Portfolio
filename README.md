@@ -24,6 +24,8 @@ This repository showcases my skills in SQL, Excel, PowerBI and Python for Data A
   - EXCEL & POWER BI
    - [Pharmacy Sales Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Pharmacy%20Sales%20Analysis)
    - [Social Buzz Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Social%20Buzz%20Data%20Analysis)
+- Certifications
+- Contacts
 
 ## Portfolio Projects
 Below are the projects I have carried out:
@@ -61,6 +63,14 @@ Prepared a PowerPoint deck and video presentation to communicate key insights fo
 **Skills**: Data Cleaning, Data Visualization and Data Analysis
 **Technology**: Excel and PowerBI
 
+## Certifications
+[DataCamp's Professional Data Analyst Certification](https://www.datacamp.com/certificate/DA0021489845053)(June, 2024)
+[DataCamp's SQL Associate Certification](https://www.datacamp.com/certificate/SQA0010023658224)(May, 2024)
+[DigiGirls Data Analyst Certificate](https://www.linkedin.com/posts/eti-ini-umoh-419b661a8_digigirls-ukaid-activity-7151120583303278594-aVyP?utm_source=share&utm_medium=member_desktop)(December, 2023)
+
+## Contacts
+- LinkedIn: [Eti-ini Umoh](https://www.linkedin.com/in/eti-ini-umoh-419b661a8)
+- Contact Number: +2348143633384
 
 
 
