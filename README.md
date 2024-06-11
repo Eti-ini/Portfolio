@@ -29,7 +29,7 @@ This repository showcases my skills in SQL, Excel, PowerBI and Python for Data A
 
 ## Portfolio Projects
 Below are the projects I have carried out:
-## Pens and Printers Sales Data Analysis
+### Pens and Printers Sales Data Analysis
 [Pens and Printers Sales Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Pens%20and%20Printers)
 
 **Goals**: To analyse the sales approach for marketing newly launched office stationeries in Pens and Printers company and decide the best methods the sales team should use.
@@ -39,7 +39,7 @@ Below are the projects I have carried out:
 **Skills**: Data Cleaning, Data Visualization and Storytelling, Data Analysis
 Technology: Python, Pandas
 
-## Pharmacy Sales Data Analysis
+### Pharmacy Sales Data Analysis
 [Pharmacy Sales Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Pharmacy%20Sales%20Analysis)
 
 **Goal**:
@@ -54,7 +54,7 @@ The pharmacy company would like to uncover insights concerning:
 **Skills**: Data Cleaning, Data Visualization and Data Analysis
 **Technology**: Excel and PowerBI
 
-## Social Buzz Data Analysis
+### Social Buzz Data Analysis
 [Social Buzz Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Social%20Buzz%20Data%20Analysis)
 
 **Description**:
@@ -62,11 +62,13 @@ Cleaned, modelled and analyzed 7 datasets to uncover insights into content trend
 Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
 **Skills**: Data Cleaning, Data Visualization and Data Analysis
 **Technology**: Excel and PowerBI
+## Education
+University of Benin: Doctor Of Pharmacy (PharmD)- 2014 to 2021
 
 ## Certifications
-[DataCamp's Professional Data Analyst Certification](https://www.datacamp.com/certificate/DA0021489845053)(June, 2024)
-[DataCamp's SQL Associate Certification](https://www.datacamp.com/certificate/SQA0010023658224)(May, 2024)
-[DigiGirls Data Analyst Certificate](https://www.linkedin.com/posts/eti-ini-umoh-419b661a8_digigirls-ukaid-activity-7151120583303278594-aVyP?utm_source=share&utm_medium=member_desktop)(December, 2023)
+- [DataCamp's Professional Data Analyst Certification](https://www.datacamp.com/certificate/DA0021489845053) (June, 2024)
+- [DataCamp's SQL Associate Certification](https://www.datacamp.com/certificate/SQA0010023658224) (May, 2024)
+- [DigiGirls Data Analyst Certificate](https://www.linkedin.com/posts/eti-ini-umoh-419b661a8_digigirls-ukaid-activity-7151120583303278594-aVyP?utm_source=share&utm_medium=member_desktop) (December, 2023)
 
 ## Contacts
 - LinkedIn: [Eti-ini Umoh](https://www.linkedin.com/in/eti-ini-umoh-419b661a8)
