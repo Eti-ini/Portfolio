@@ -1,0 +1,33 @@
+DATE,REASON FOR REFUND,PATIENT NO,IV CEFTRIAXONE,IV LEVOFLOXACIN,ARMSLING POUCH,IV CANNULA,GIVING SET,INJ. HYDROCORTISONE,INJ. ARESUNATE 120MG,INJ. GENTAMYCIN,INJ. PARACETAMOL,IV CEFTAZIDIME,IV OMEPRAZOLE,INJ. DIAZEPAM,INJ. TRANEXAMIC ACID,INJ. POTASSIUM CHLORIDE,INJ. FRUSEMIDE,TABS METRONIDAZOLE 200MG,IV METRONIDAZOLE,IV CEFTRIAXONE/SULBACTAM,SOLUBLE INSULIN 100IU,WATER FOR INJECTION,IVF 10% DEXTROSE WATER,IVF DARROW'S SOLUTION,50% DEXTROSE SALINE,IVF 5% DEXTROSE SALINE,IVF 5% DEXTROSE WATER,4.3% DEXTROSE WATER,IVF NORMAL SALINE ,IVF RINGERS' LACTATE,IV CIPROFLOXACIN,INJ. AMOXICILLIN,INJ. VITAMIN K1,INJ. AMOXICILLIN/CLAVULANIC ACID,TABS. TIZANIDINE 2MG,INJ. CEFUROXIME,TABS ACT (80/480) MG,TABS. BROMAZEPAM,TABS DIHYDROARTEMISININ/PIPERAQUINE,TABS. DICLOFENAC,TABS. DIHYDROCODEINE,TABS ORNIDAZOLE/OFLOXACIN,TABS. ROSUVASTATIN 10MG,TABS AMILORIDE/HYDROCHLORTHIAZIDE,TABS LOSARTAN 25MG,TABS. DICLOFENAC/MISOPROSTOL,TABS. MISOPROSTOL,TABS AMOXICLLIN 500MG,TABS. AMOXICILLIN/CLAVULANIC ACID,INJ. PENTAZOCINE,INSULIN SYRINGES,LATEX GLOVES (PACK),SURGICAL GLOVES,SURGICAL BLADE,COTTON WOOL,PLASTER,SUTURES,SYRINGES,TAB SPIRONOLACTONE,CAPS TETRACYCLINE,FEEDING TUBE,KY JELLY,CATHETER,URINE BAG,LACTULOSE SUSPENSION,METHYLATED SPIRIT,AMOUNT (N)
+6/2/2024,DRUG UNUTILIZED AT TIME OF DISCHARGE,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,,,,,,,,,,,,,,,,,,,,,250
+8/2/2024,DEMISE OF THE PATIENT,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,10,,,,,,,,,"6,250"
+8/2/2024,DRUGS UNUTILIZED AT TIME OF DISCHARGE,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,1,,,14,,,,,1,,,1,"5,950"
+9/2/2024,DRUG OUT OF STOCK AFTER PAYMENT,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,,,,,,,,,,,,,,,,,,,,,,,,,,,210
+11/2/2024,DEMISE OF THE PATIENT,5,3,,,,,,,,,,,1,,,,,5,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,,,,,,,,,"8,620"
+12/2/2024,DRUGS UNUTILIZED AT TIME OF DISCHARGE,6,,,,,,,,,,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,,,,,,,,"1,500"
+13/02/2024,DRUGS UNUTILIZED AT TIME OF DISCHARGE,7,2,,,,,,,,,,,,,,,,,,,,,,,,,,20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"17,000"
+13/02/2024,CHANGE OF DRUG REGIMEN,8,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"2,200"
+13/02/2024,DRUGS UNUTILIZED AT TIME OF DISCHARGE,9,1,,,,,,,,,,,,,,,,,,,,,,,2,,,4,,,,,,,,,,,,,,,,,,,,,,,,2,1,,,,,,,,,,,,,"4,150"
+13/02/2024,DRUGS UNUTILIZED AT TIME OF DISCHARGE,10,,,,,,,,,,,,,,,,,,,,,,,,,3,,4,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,5,,,,,,,,,"6,050"
+15/02/2024,DRUG UNUTILIZED AT TIME OF DISCHARGE,11,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"1,530"
+17/02/2024,CHANGE OF DRUG REGIMEN,12,2,,,,,,,,6,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,"7,850"
+18/02/2024,DRUGS UNUTILIZED AT TIME OF DISCHARGE,13,,,,,,,,,,,,,,,,,,,,,,,,,,,4,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"2,800"
+18/02/2024,DRUGS UNUTILIZED AT TIME OF DISCHARGE,14,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,"3,200"
+19/02/2024,DEMISE OF THE PATIENT,15,,,,2,1,,,,,,,,,,,,,,,,,,,3,,,3,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,10,,,,,2,,,,"9,980"
+19/02/2024,DRUG OUT OF STOCK AFTER PAYMENT,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,46,,,,,,,,,,,,,,,,,,,,,,,,,,"11,500"
+19/02/2024,DRUG OUT OF STOCK AFTER PAYMENT,17,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,30,,,,,,,,,,,,,,,,,,,,,,,,"1,800"
+19/02/2024,DEMISE OF THE PATIENT,18,,,,4,,,,,,,,,,,,,,,,,,,,,4,2,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,5,,,,,,,,,"9,450"
+19/02/2024,CHANGE OF DRUG REGIMEN,19,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"16,000"
+19/02/2024,CHANGE OF DRUG REGIMEN,20,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,700
+19/02/2024,DRUGS UNUTILIZED AT TIME OF DISCHARGE,21,,,,,1,,,,,,,,,,,,,,,,,,,,,,2,,,,2,,,,,,,,,,,,,,4,,,,,,,,,1,1,12,,,,,,,,,"5,300"
+20/02/2024,DEMISE OF THE PATIENT,22,,,,4,,,,,,,,,,,,,,,,10,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,13,,,,,,,,1,"4,330"
+20/02/2024,DRUG UNUTILIZED AT TIME OF DISCHARGE,23,,,,,,,,,5,,,,,,,,,,,,,,,,2,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3,200"
+20/02/2024,PATIENT INSISTED ON A BRAND NOT AVAILABLE,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,,,,,,10,,,,,,,,,,,,,,,,,,,,,"1,620"
+21/02/2024,DRUGS UNUTILIZED AT TIME OF DISCHARGE,25,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,810
+21/02/2024,DRUG UNUTILIZED AT TIME OF DISCHARGE,26,,,,3,,,,,,,,,,,,,,,,5,,,,,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,,,,,,,,,"3,170"
+21/02/2024,DEMISE OF THE PATIENT,27,3,,,4,,,,,,,2,,,,,,,,,,,,,,3,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"11,350"
+21/02/2024,DRUG MISTAKENLY BILLED,28,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,,,,,,,250
+21/02/2024,DRUG UNUTILIZED AT TIME OF DISCHARGE,29,1,,,,,,,,,,1,,,,2,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"3,550"
+21/02/2024,DEMISE OF THE PATIENT,30,2,,,,,,,,3,,,,,,,,,,,2,,,,,,,6,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,1,,,,"8,290"
+21/02/2024,DEMISE OF THE PATIENT,1,,,,3,,,,2,,1,,,,,,,,,,10,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,1,1,,10,,,2,,,,,,"8,350"
+21/02/2024,DRUGS UNUTILIZED AT TIME OF DISCHARGE,2,,,,,,,,,,,,,,,,,,,,,,,,3,,,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,"4,200"
