@@ -24,8 +24,8 @@ This repository showcases my skills in SQL, Excel, PowerBI and Python for Data A
   - EXCEL & POWER BI
    - [Pharmacy Sales Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Pharmacy%20Sales%20Analysis)
    - [Social Buzz Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Social%20Buzz%20Data%20Analysis)
-  - EXCEL AND PYTHON
-      -[Drug Data Analysis] 
+- EXCEL AND PYTHON
+    - [Drug Return Analysis](https://github.com/Eti-ini/Portfolio/blob/main/Drug%20Return%20Analysis/Drug%20Return%20Analysis.docx)
 - Certifications
 - Contacts
 
