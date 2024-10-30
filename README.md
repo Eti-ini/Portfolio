@@ -26,7 +26,9 @@ This repository showcases my skills in SQL, Excel, PowerBI and Python for Data A
    - [Social Buzz Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Social%20Buzz%20Data%20Analysis)
 - EXCEL AND PYTHON
     - [Drug Return Analysis](https://github.com/Eti-ini/Portfolio/blob/main/Drug%20Return%20Analysis/Drug%20Return%20Analysis.docx)
-    - [https://github.com/Eti-ini/Portfolio/tree/main/HPV%20Project%20Analysis)
+    - [Drug Return Analysis](https://github.com/Eti-ini/Portfolio/blob/main/Drug%20Return%20Analysis/Drug%20Return%20Analysis.docx)
+    - [Drug Return Analysis](https://github.com/Eti-ini/Portfolio/blob/main/Drug%20Return%20Analysis/Drug%20Return%20Analysis.docx)
+    - [Human Papilloma Virus Analysis](https://github.com/Eti-ini/Portfolio/tree/main/HPV%20Project%20Analysis)
 - Certifications
 - Contacts
 
