@@ -27,6 +27,7 @@ This repository showcases my skills in SQL, Excel, PowerBI and Python for Data A
 - EXCEL AND PYTHON
     - [Drug Return Analysis](https://github.com/Eti-ini/Portfolio/blob/main/Drug%20Return%20Analysis/Drug%20Return%20Analysis.docx)
     - [Human Papilloma Virus Analysis](https://github.com/Eti-ini/Portfolio/tree/main/HPV%20Project%20Analysis)
+    - [Geospatial Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Outlier%20detection-geospatial%20analysis)
 - Certifications
 - Contacts
 
