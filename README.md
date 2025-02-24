@@ -11,15 +11,11 @@ This repository showcases my skills in SQL, Excel, PowerBI and Python for Data A
 - [Portfolio Projects](https://github.com/Eti-ini/Portfolio/tree/main)
   - Python
     - [Pens and Printers Sales Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Pens%20and%20Printers)
-    - [Analyzing Crime in Los Angeles](https://github.com/Eti-ini/Portfolio/blob/main/Analyzing%20Crime%20in%20Los%20Angeles/notebook.ipynb)
     - [Investigating Netflix Movies](https://github.com/Eti-ini/Portfolio/blob/main/Investigating%20Netflix%20movies/notebook.ipynb)
     - [Visualizing the History of Nobel Prize Winners](https://github.com/Eti-ini/Portfolio/blob/main/Visualizing%20the%20History%20of%20Nobel%20Prize%20Winner/notebook.ipynb)
 
   - SQL
-    - [Analyzing Industry Carbon Emissions](https://github.com/Eti-ini/Portfolio/blob/main/Analyzing%20Industry%20Carbon%20Emissions/notebook.ipynb)
     - [Era of Video Games](https://github.com/Eti-ini/Portfolio/blob/main/Era%20of%20video%20game/notebook.ipynb)
-    - [International Debt Analysis](https://github.com/Eti-ini/Portfolio/blob/main/International%20Debt%20Analysis/notebook.ipynb)
-    - [Analyzing Motor Part Sales](https://github.com/Eti-ini/Portfolio/blob/main/Analyzing%20Motorcycle%20Part%20Sales/notebook.ipynb)
 
   - EXCEL & POWER BI
    - [Pharmacy Sales Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Pharmacy%20Sales%20Analysis)
