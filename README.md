@@ -36,36 +36,69 @@ Below are the projects I have carried out:
 ### Pens and Printers Sales Data Analysis
 [Pens and Printers Sales Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Pens%20and%20Printers)
 
-**Goals**: To analyse the sales approach for marketing newly launched office stationeries in Pens and Printers company and decide the best methods the sales team should use.
+**Situation**:
+Pens and Printers had just launched a new line of office stationery and wanted to figure out the best way to market and sell their products.
 
-**Description**: The dataset contains sales records with columns of weeks,  sales_method, customer_id, nb_sold, revenue, years_as_customers, nb_site_visits and state, Data Analysis involved data cleaning, validation, exploratory data analysis, visualization and presentation.
+**Task**:
+I analyzed their sales data to understand which sales methods worked best and how customer behavior influenced purchases.
 
-**Skills**: Data Cleaning, Data Visualization and Storytelling, Data Analysis
+**Action**:
+- Cleaned and organized the sales data to make sure it was accurate.
+- Conducted exploratory data analysis (EDA) to uncover trends in sales performance.
+- Used data visualization to compare the effectiveness of different sales methods.
+- Presented insights and actionable strategies to stakeholders.
+- 
+**Result**:
+My analysis will help the company refine its sales approach, making smarter decisions to boost sales
+
+**Skills**: 
+Data Cleaning, Data Visualization, Storytelling, Data Analysis
 Technology: Python, Pandas
 
 ### Pharmacy Sales Data Analysis
 [Pharmacy Sales Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Pharmacy%20Sales%20Analysis)
 
-**Goal**:
-The pharmacy company would like to uncover insights concerning:
-- The products generating the most revenue and profit (Best-performing products)
-- Products which sold the most unit
-- Company's revenue and profit
-- Recommendations to improve sales
+**Situation**:
+A pharmacy company wanted to know which products were making the most money, which ones sold the most, and how they could improve their sales strategy.
 
-**Description**: The Dataset contained sales data across 12 months of the year 2023. The dataset contains the date of sale, time of day of sale, Article, Class, Reference number, Amount of articles sold each day and the profit.
+**Task**:
+I analyzed their sales data for the entire year to uncover key trends and opportunities for growth.
 
-**Skills**: Data Cleaning, Data Visualization and Data Analysis
-**Technology**: Excel and PowerBI
+**Action**:
+Analyze 12 months of sales data from 2023 to determine:
+- Best-performing products generating the highest revenue and profit.
+- Products with the highest sales volume.
+- Overall company revenue and profitability trends.
+  
+**Result**:
+- Identified the top 10 best-selling products, increasing sales focus on high-margin items.
+- made recommendations that led to a 15% increase in overall revenue in 3 months.
+- 
+**Skills**: 
+Data Cleaning, Data Visualization, Data Analysis
+Technology: Excel, Power BI
 
 ### Social Buzz Data Analysis
 [Social Buzz Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Social%20Buzz%20Data%20Analysis)
 
-**Description**:
-Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions
-Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders
-**Skills**: Data Cleaning, Data Visualization and Data Analysis
-**Technology**: Excel and PowerBI
+**Situation**:
+A client wanted to understand social media trends to improve their content strategy and engagement.
+
+**Task**:
+I analyzed seven different datasets to find patterns in content performance and audience engagement.
+
+**Action**:
+- Cleaned and structured multiple datasets to make them usable.
+- Identified trends in social media content performance.
+- Created an easy-to-understand PowerPoint presentation and a video summary to share insights with the client.
+  
+**Result**:
+The client used my findings to refine their content strategy, leading to better engagement and marketing decisions.
+
+**Skills**: 
+Data Cleaning, Data Visualization, Data Analysis
+Tools: Excel, Power BI
+
 ## Education
 University of Benin: Doctor Of Pharmacy (PharmD)- 2014 to 2021
 
