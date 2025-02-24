@@ -20,6 +20,8 @@ This repository showcases my skills in SQL, Excel, PowerBI and Python for Data A
   - EXCEL & POWER BI
    - [Pharmacy Sales Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Pharmacy%20Sales%20Analysis)
    - [Social Buzz Data Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Social%20Buzz%20Data%20Analysis)
+   - [Marketing Campaign Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Campaign%20Analysis)
+    
 - EXCEL AND PYTHON
     - [Drug Return Analysis](https://github.com/Eti-ini/Portfolio/blob/main/Drug%20Return%20Analysis/Drug%20Return%20Analysis.docx)
     - [Human Papilloma Virus Analysis](https://github.com/Eti-ini/Portfolio/tree/main/HPV%20Project%20Analysis)
@@ -43,7 +45,7 @@ I analyzed their sales data to understand which sales methods worked best and ho
 - Conducted exploratory data analysis (EDA) to uncover trends in sales performance.
 - Used data visualization to compare the effectiveness of different sales methods.
 - Presented insights and actionable strategies to stakeholders.
-- 
+  
 **Result**:
 My analysis will help the company refine its sales approach, making smarter decisions to boost sales
 
@@ -95,6 +97,28 @@ The client used my findings to refine their content strategy, leading to better 
 Data Cleaning, Data Visualization, Data Analysis
 Tools: Excel, Power BI
 
+
+### Marketing Campaign Analysis
+[Marketing Camapign Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Campaign%20Analysis))
+
+**Situation**:
+A company ran a marketing campaign across multiple social media channels and wanted to understand which platforms, locations, and engagement strategies delivered the best results.
+
+**Task**:
+Analyze the campaign performance using Power BI to identify the most effective marketing channels, geographic trends, and engagement patterns.
+
+**Action**:
+- Cleaned and analyzed the marketing campaign dataset using Power BI.
+- Examined ROI, conversion rates, and cost-per-click (CPC) to determine the best-performing platforms.
+- Analyzed engagement metrics such as likes, shares, and comments to assess audience interaction.
+- Identified daily and seasonal trends in impressions and conversions.
+- 
+**Result**:
+This analysis provided actionable insights to optimize future marketing strategies and budget allocation.
+
+**Skills**: 
+Data Analysis, Data Visualization, Marketing Analytics
+Tools: Power BI
 ## Education
 University of Benin: Doctor Of Pharmacy (PharmD)- 2014 to 2021
 
