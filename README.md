@@ -99,7 +99,7 @@ Tools: Excel, Power BI
 
 
 ### Marketing Campaign Analysis
-[Marketing Camapign Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Campaign%20Analysis))
+[Marketing Camapign Analysis](https://github.com/Eti-ini/Portfolio/tree/main/Campaign%20Analysis)
 
 **Situation**:
 A company ran a marketing campaign across multiple social media channels and wanted to understand which platforms, locations, and engagement strategies delivered the best results.
