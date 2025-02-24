@@ -1,8 +1,8 @@
 # Eti-ini Umoh- Data Analyst Portfolio
 ## About
-Hi, I am Eti-ini Umoh, a Pharmacist from the University of Benin, Nigeria. I am a data analyst and enthusiast passionate about uncovering insights and making data-driven decisions, especially in the healthcare sector. I have developed a unique blend of technical and soft skills necessary to drive insights from data. 
+I’m a data analyst passionate about solving problems with data—both in healthcare and beyond. With a strong blend of technical skills and analytical thinking, I love uncovering insights that drive smart decisions. My goal is to transform raw data into meaningful stories that create real impact, especially in the healthcare sector.
 
-Throughout my journey, I have learnt to transform complex data into actionable insights and uncover  hidden patterns and trends. As an entry-level data analyst, I am ready to leverage my skills to solve problems with data.
+Throughout my journey, I have learnt to transform complex data into actionable insights and uncover hidden patterns and trends. As an entry-level data analyst, I am ready to leverage my skills to solve problems with data.
 
 This repository showcases my skills in SQL, Excel, PowerBI and Python for Data Analysis and how I have used these skills to uncover useful insights and make decisions.
 
@@ -73,7 +73,7 @@ Analyze 12 months of sales data from 2023 to determine:
 **Result**:
 - Identified the top 10 best-selling products, increasing sales focus on high-margin items.
 - made recommendations that led to a 15% increase in overall revenue in 3 months.
-- 
+  
 **Skills**: 
 Data Cleaning, Data Visualization, Data Analysis
 Technology: Excel, Power BI
